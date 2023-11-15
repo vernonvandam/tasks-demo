@@ -25,6 +25,7 @@ Key Features:
 - MySQL DB
 - Prisma ORM
 - shadcnUI & TailwindCSS
+- Planet Scale for DB
 
 ### Prerequisites
 
